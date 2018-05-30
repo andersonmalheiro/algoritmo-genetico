@@ -1,7 +1,7 @@
 # Algoritmo genético
 Modelagem e implementação de um algoritmo genético para formatação de treinos físicos.
 
-# Problema
+## Problema
 Todos que fazem exercícios precisam fazer uma sequência em um certo período de tempo. O algoritmo precisa capturar o tempo de treino e “Encaixar” os tipos de exercícios e suas séries de modo a ocupar melhor o tempo. Considere no mínimo 5 tipos de exercícios, com tempos e número de séries diferentes.
 
 ## Modelagem do indivíduo
